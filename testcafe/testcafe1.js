@@ -8,5 +8,4 @@ await t.wait(2000)
 });
 
 test('Second testCafeTest', async t => {
-    
 })
