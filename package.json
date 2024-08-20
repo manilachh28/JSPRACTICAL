@@ -11,5 +11,9 @@
   "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "testcafe": "^3.6.2",
+    "typescript": "^5.5.4"
   }
 }
